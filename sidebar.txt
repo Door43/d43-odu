@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[odu:home|Door43 (odu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-odu|d43-odu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-odu/archive/master.zip|d43-odu.zip]]
+
+**Recent Changes**
+{{changes>ns = odu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/odu|Ethnologue data]]
+
